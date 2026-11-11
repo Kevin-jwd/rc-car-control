@@ -1,0 +1,22 @@
+# Microchip Studio / Visual Studio local state
+.vs/
+*.atsuo
+*.suo
+*.user
+
+# Build outputs
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+*.a
+
+# OS files
+Thumbs.db
+.DS_Store
